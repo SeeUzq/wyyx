@@ -18,7 +18,7 @@ task('img', async ()=>{
 // 处理JS
 task('script', async ()=>{
   src('./js/*.js')
-  .pipe(load.babel({ presets: ['@babel/env']}))
+  // .pipe(load.babel({ presets: ['@babel/env']}))
   .pipe(dest('./dist/js'))
   .pipe(load.connect.reload())
 })
@@ -37,7 +37,12 @@ task('sass', async ()=>{
   .pipe(dest('./dist/css'))
   .pipe(load.connect.reload())
 })
-
+//处理数据文件
+task('data', async ()=>{
+  src('./data/*.*')
+  .pipe(dest('./dist/data'))
+  .pipe(load.connect.reload())
+})
 // 监听文件变化
 task('watch', async ()=>{
   watch('./pages/*.html',series('html'))
@@ -55,4 +60,4 @@ task('connect', async ()=>{
   })
 })
 
-task('dev', series('delDist','img','html','script','sass','connect','watch'))
+task('dev', series('delDist','img','html','script','sass','data','connect','watch'))

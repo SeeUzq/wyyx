@@ -1,0 +1,111 @@
+@charset "utf-8";
+html,
+body,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+img,
+input,
+figure,
+figcaption
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header,footer,section,article,aside,nav,main,hgroup{
+    display:block;
+}
+*{
+    box-sizing: border-box;
+}
+body {
+    font: 12px/1.5 "Microsoft Yahei","微软雅黑",verdana;
+}
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+b,
+strong {
+    font-weight: normal;
+}
+
+em,
+i {
+    font-style: normal;
+}
+
+a,
+u {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+input {
+    outline: none;
+}
+
+img {
+    display: block;
+    border: 0;
+}
+
+fieldset {
+    border: 0;
+}
+
+textarea {
+    resize: none;
+}
+
+/* 封装好类名 */
+.border_none {
+    border: none !important;
+}
+
+.bg_none {
+    background: none !important;
+}
+
+/* 单行文本溢出省略号显示 */
+.text_ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.clearfix{
+    *zoom: 1;/* 解决IE7以下版本的塌陷问题 */
+}
+.clearfix::after{
+   content: ' ';
+   display: block;
+   height: 0;
+   overflow: hidden;
+   clear: both;
+}
