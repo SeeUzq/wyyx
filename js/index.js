@@ -1,0 +1,1 @@
+$('.indexMain').load('./indexMain.html');

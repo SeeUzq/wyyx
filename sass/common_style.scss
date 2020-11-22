@@ -286,29 +286,125 @@
             .main_nav{
                 position: absolute;
                 bottom: 0px;
-                .main_nav_ul>li{
+                .main_nav_ul{
+                    position: relative;
+                    li{
                     float: left;
                     margin: 27px 0 0 0 ;
                     padding: 0 26px;
                     font-size: 14px;
-                    .liA{
-                        display: block;
-                        line-height: 1;
-                        padding-bottom: 7px;
-                        color: #000;
-                        font-weight: 700;
-                        border-bottom: 3px solid transparent;
+                    background: #fff;
+                        .liA{
+                            display: block;
+                            line-height: 1;
+                            padding-bottom: 7px;
+                            color: #000;
+                            font-weight: 700;
+                            border-bottom: 3px solid transparent;
+                        }
+                        .liA:hover{
+                            .list_items_dl{
+                                display: block;
+                            }
+                        }
+                        .firstPageA{
+                            box-sizing: border-box;
+                            color: #CC9756;
+                        }
+                        .list_items{
+                            display: none;
+                            position: absolute;
+                            z-index: 10;
+                            width: 1242px;
+                            left: -56px;
+                            right: auto;
+                            top: 51px;
+                            padding:14px 20px 20px ;
+                            .list_items_dl{
+                                width: 124px;
+                                float: left;
+                                margin-right: 24px;
+                                font-size: 14px;
+                                dt{
+                                    display: inline-block;
+                                    margin-bottom: 10px;
+                                    font-size: 14px;
+                                    font-weight: 700;
+                                    line-height: 36px;
+                                    width: 100%;
+                                    border-bottom: 1px solid #ddd;
+                                }
+                                dd{
+                                    margin-bottom: 4px;
+                                    font-weight: 400;
+                                    line-height: 50px;
+                                    a{
+                                        color: #333;
+                                        cursor: pointer;
+                                        img{
+                                            display: inline-block;
+                                            height: 50px;
+                                            width: 50px;
+                                            border: 0;
+                                            vertical-align:top;
+
+                                        }
+                                        span{
+                                            display: inline-block;
+                                            width: 70px;
+                                            max-height: 70px;
+                                            max-height: 48px;
+                                            margin-left: 4px;
+                                            font-size: 14px;
+                                            vertical-align: middle;
+                                            line-height: 1.2;
+                                            overflow: hidden;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    
+                  }
+                  .firstPage{
+                      padding-left: 0;
+                      border-bottom: 3px solid #CC9756;
+
+                  }
+                    .morePage:hover .list_items{
+                    display: block;
+                    background: #fff;
                     }
-                   .firstPageA{
-                        box-sizing: border-box;
+                    .morePage:hover .liA{
                         color: #CC9756;
                         border-bottom: 3px solid #CC9756;
                     }
-                    .list_items{
-                        display: none;
+                    .lis_2{
+                        .list_items{
+                            width: 1376px;
+                           left: -182px;
+                        }
                     }
+                    .lis_6{
+                        .list_items{
+                            width: 1080px;
+                           right:auto;
+                           left: 36px;
+                        }
+                    }
+                    .lis_8{
+                        .list_items{
+                            width: 1084px;
+                           right:auto;
+                           left: 36px;
+                        }
+                    }
+                    .lis_zc{
+                        padding-right: 0;
+
+                    }
+                    
                 }
-              
             }
 
         }

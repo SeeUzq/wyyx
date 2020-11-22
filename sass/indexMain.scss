@@ -1,0 +1,34 @@
+.commonCenter{
+    width: 1090px;
+    margin: 0 auto;
+}
+.noBorder{
+    border: none;
+}
+
+// banner图结构
+.banner{
+    width: 100%;
+    height: 420px;
+    overflow-x: hidden;
+   .banner_inner{
+        width: 1519px;
+        position: relative;
+        left: 0px;
+        top: 0px;
+        opacity: 1;
+}
+    .bannerA{
+        display: block;
+        height: 420px;
+        background: coral;
+        position: absolute;
+        left: 50%;
+        img{
+            text-align: center;
+            position: relative;
+            left: -50%;
+        }
+    }
+   }
+   
