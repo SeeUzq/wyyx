@@ -1,7 +1,9 @@
 .commonCenter{
     width: 1090px;
     margin: 0 auto;
+    position: relative;
 }
+
 .noBorder{
     border: none;
 }
@@ -417,7 +419,6 @@
 .common_footer{
     min-width: 1090px;
     border-top: 1px solid #e8e8e8;
-
    .common_footer_top{
        padding: 60px 0 34px 0;
        height: 298px;

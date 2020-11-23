@@ -1,5 +1,4 @@
 $('.header').load('./common_header.html');
-
 $('.footer').load('./common_footer.html');
 var timer = setInterval(function(){
    
@@ -69,3 +68,11 @@ var timer = setInterval(function(){
  
    }, 0);
 
+window.onload = function(){
+// 导航栏吸顶效果图
+
+
+
+
+
+}
