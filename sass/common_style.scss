@@ -158,6 +158,22 @@
         font-size: 12px;
     }
 }
+
+.myCarNum{
+    position: absolute;
+    top: 7px;
+    right: 15px;
+    height: 19px;
+    width: 19px;
+    line-height: 19px;
+    text-align: center;
+    display: block;
+    background: url(./../img/component2.png) no-repeat ;
+    background-position: 0 -51px;
+    color: #fff;
+
+}
+
 .commonHeader_bottom{
     box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
     .commonHeader_bottom_inner{
@@ -268,28 +284,30 @@
                             color: #CC9756;
 
                         }
-                        span{
-                            position: absolute;
-                            top: 7px;
-                            right: 15px;
-                            height: 19px;
-                            width: 19px;
-                            line-height: 19px;
-                            text-align: center;
-                            display: block;
-                            background: url(./../img/component2.png) no-repeat ;
-                            background-position: 0 -51px;
-                            color: #fff;
-
-                        }
+                       
                     }
                
                 }
             .main_nav{
+                width: 100%;
                 position: absolute;
+                background: #fff;
+                z-index: 9;
                 bottom: 0px;
+                margin: 0 auto;
+                .main_nav_box{
+                    width: 100%;
+                    background: #fff;
+                }
+                .main_nav_in{
+                    text-align: center;
+                    background: #fff;
+                    text-align: center;
+                }
                 .main_nav_ul{
-                    position: relative;
+                    margin: 0 auto;
+                    background: #fff;
+                    height: 50px;
                     li{
                     float: left;
                     margin: 27px 0 0 0 ;
@@ -320,7 +338,7 @@
                             width: 1242px;
                             left: -56px;
                             right: auto;
-                            top: 51px;
+                            top: 50px;
                             padding:14px 20px 20px ;
                             .list_items_dl{
                                 width: 124px;
@@ -370,8 +388,9 @@
                   }
                   .firstPage{
                       padding-left: 0;
-                      border-bottom: 3px solid #CC9756;
-
+                    a{
+                        border-bottom: 3px solid #CC9756;
+                    }
                   }
                     .morePage:hover .list_items{
                     display: block;
@@ -407,6 +426,73 @@
                     }
                     
                 }
+               
+                .main_nav_box2{
+                    box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
+                    display: none;
+                    position: absolute;
+                    width: 100%;
+                    background: #fff;
+                    .new{
+                        top: 0px;
+                    }
+                    .miniLogo{
+                        position: absolute;
+                        left: 0px;
+                        top: 20px;
+                       
+                        a{
+                            background: url(./../img/component2.png) no-repeat #fff;
+                            background-position:0 -438px ;
+                            display: block;
+                            height: 30px;
+                            width: 126px;
+                        }
+
+                    }
+                    .main_nav_ul {
+                        left: 126px;
+                        height: 50px;
+                        .firstPage{
+                        padding-left: 17px;
+                        }
+                        .this_li {
+                            padding: 0 17px;
+                        }
+                    }
+                    .mineAndMycar{
+                        float: right;
+                        position: relative;
+                        z-index: 12;
+                        .user_div{
+                            float: left;
+                            position: relative;
+                            margin: 14px 0 0 0;
+                            padding: 0 0 19px 0;
+                            .user{
+                                height: 22px;
+                                width: 20px;
+                                display: block;
+                                background: url(./../img/component2.png) no-repeat ;
+                                background-position: 0 -786px;
+                            }
+                        }
+                        .myCar_div{
+                            float: left;
+                            margin: 5px 24px 0 27px;
+                            padding: 8px 0;
+                            .myCar{
+                                height: 24px;
+                                width: 24px;
+                                display: block;
+                                background: url(./../img/component2.png) no-repeat ;
+                                background-position: 0 -204px;
+                            }
+                        }
+                      
+                    }
+                }
+               
             }
 
         }
