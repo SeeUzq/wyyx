@@ -685,3 +685,135 @@
        }
    }
 }
+
+
+
+.hotForm{
+    overflow: hidden;
+    z-index: 9;
+    background: #fff;
+    position: absolute;
+    top: 635px;
+    width: 108px;
+    left: 5%;
+    border: 1px solid #e2ded6;
+    border-radius: 4px;
+    opacity: 1;
+    .hotForm_dl{      
+        .item{
+            width: 108px;
+            height: 36px;
+            padding: 1px 11px 0;
+            text-align: left;
+            position: relative;
+            display: table;
+        }
+        dd{
+            img{
+                position: absolute;
+                top: 2px;
+                left: 12px;
+                width: 30px;
+                height: 30px;
+            }
+            span{
+                top: 2px;
+                position: absolute;  
+                width: 38px;              
+                vertical-align: middle;
+                line-height: 14px;
+                font-size: 12px;
+                margin-left: 36px;
+                color: #BB3343;
+                font-weight: bold;
+            }
+           a{
+            display: block;
+            margin-right: 10px;
+           }
+        }
+        .item_sam{
+            a{
+               border-bottom: 1px solid #E2DED6; 
+            }
+            span{
+                color: #333333; ;
+                font-weight: normal;
+
+            }
+        }
+        .item_dt{
+            line-height: 36px;
+            position: relative;
+            top: -3px;
+            color: #BB3343;
+            font-weight: bold;
+            text-align: center;
+            background: url('./../img/form1.webp') no-repeat;
+        }
+    }
+}
+.fixRight_outer{
+    position: absolute;
+    right: 0;
+    z-index: 9;
+    top: 635px;
+    background: #fff;
+    .fixRight{
+        width: 72px;
+        .appGift_a{
+            height: 140px;
+            display: block;
+            color: #666;
+            text-align: center;
+            // border-bottom: 1px solid #eee;
+            .code{
+                height: 70px;
+                width: 70px;
+            }
+            .text_1{
+                line-height: 17px;
+                color: #666;
+            }
+            .text_2,.text_3{
+                line-height: 17px;
+                color: #bc3b3b;
+            }
+        }
+        .subscribe{
+            display: block;
+            width: 72px;
+            height: 82px;
+            text-align: center;
+            position: relative;
+            .grayImg{
+                background-position: 0 -523px;//490px
+            }
+        }
+        .customerService{
+            text-align: center;
+            .grayImg{
+                background-position: 0 -128px;//490px
+            }
+        }
+        .toTop{
+            text-align: center;
+            .grayImg{
+                background-position: 0 -289px;//490px
+            } 
+        }
+        .grayP{
+            line-height: 20px;
+            font-size: 14px;
+            margin: 8px auto 0;
+        }
+        .grayImg_com{
+            height: 31px;
+            width: 32px;
+            background: url(./../img/fixedtool.webp) no-repeat;
+            display: block;
+            margin: 0 auto;
+            background-size: 100%;
+        }
+    }
+}

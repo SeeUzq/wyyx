@@ -1,0 +1,160 @@
+.login_boby_outer{
+    width:100%;
+    height: 600px;
+}
+.login_boby{
+    border: 1px solid transparent;
+    background: url(./../img/login.jpg) no-repeat center;
+    height: 600px;
+    width:100%;
+    margin: 0 auto;
+    min-width: 1090px;
+   
+}
+.commonHeader_top .liDiv{
+    z-index: 12;
+}
+ .fixBoxRight .fixRight_outer{
+    position: fixed;
+    top: 100px;
+}
+
+// 登录页面
+.loginBox_outer{ 
+   width: 1090px;
+   margin: 0 auto;
+  .loginBox {
+    margin: 83px 0 0 703px;
+    width: 386px;
+    height: auto !important;
+   }
+}
+
+// 登录框
+
+
+
+
+.login_outer{
+   
+   .login_inner{
+    padding: 58px 40px 83px;
+    width: 384px;
+    position: relative;
+    background: #fff;
+    overflow: hidden;  
+    .loginSelectS{
+        position: absolute;
+        overflow: hidden;
+        padding: 30px 0 10px;
+        top: 0;
+        left: 29px;
+        .loginHeader{
+            color: #333;
+            font-size: 18px;
+            width: 306px;
+            overflow: hidden;
+            .mobileLogin{
+                float: left;
+                cursor: pointer;
+                margin-left: 25px;
+
+            }
+            .line{
+                display: block;
+                float: left;
+                width: 1px;
+                height: 20px;
+                background: #ddd;
+                margin-left: 55px;
+            }
+            .emailLogin{
+                float: left;
+                cursor: pointer;
+                margin-left: 25px;
+            }
+        }
+       
+    }
+    .loginBottom{
+        height: 60px;
+        width: 386px;
+        bottom: -1px;
+        left: 0;
+        position: absolute;
+        padding-right: 25px;
+        background: #F5F3EF;
+        .moreApp{
+            float: left;
+            margin-left: 32px;
+            .app{
+               
+                height: 30px;
+                width: 30px;
+                float: left;
+                padding: 0;
+                text-align: center;
+                margin: 15px 4px;
+                display: block;
+                background: url(./../img/apps.webp) no-repeat;
+                background-position: -6px -3px;
+                background-size: 150%;
+            }
+            .app2{
+                background-position: -6px -250px;
+            }
+            .app3{
+                background-position: -6px -124px;
+            }
+            .app4{
+                background-position: -6px -83px;
+            }
+        }
+        .question{
+            float: right;
+            height: 12px;
+            font-size: 12px;
+            line-height: 16px;
+            margin-top: 25px;
+            margin-left: 5px;
+        }
+    }
+    .loginChanges{
+        position: relative;
+        width: 304px;
+        height: 100px;
+        .memailL{
+            position: absolute;
+            margin: 0 auto;
+            padding-top: 10px;
+            background: #fff;
+            .emailCountDiv{
+                width: 298px !important;
+                height: 36px;
+                border: 1px solid #e8e8e8;
+                line-height: 36px;
+                border-radius: 2px; 
+                font-size: 12px;
+                .emailImg{
+                    float: left;
+                    width: 29px;
+                    text-align: center;
+                    padding: 7px 0 7px 7px;
+                    .emailImgI{
+                        display:block;
+                        width: 24px;
+                        height: 24px;
+                        padding-right: 7px;
+                        border-right: 1px solid #e8e8e8;
+                        background: url(./../img/uerimg.png) no-repeat;
+                    }
+                }
+            }
+        }
+        .mobileL{
+            display: none;
+
+        }
+    }
+   } 
+}

@@ -4,9 +4,11 @@
     margin: 0 auto;
     position: relative;
 }
+// 无边框
 .noBorder{
     border: none;
 }
+// 缩放动画
 .common_scale{
     .do_scale{
         transition: transform 1.4s;
@@ -16,6 +18,7 @@
     }
     
 }
+// 相同h样式
 .commom_header{
     width: 1090px;
     height: 48px;
@@ -52,6 +55,7 @@
         color:#CC9756;
     }
 }
+// 数目红框
 .nowPri_small{
     .now{
         line-height: 18px;
@@ -65,6 +69,7 @@
         text-decoration: line-through;
     }
 }
+// 向左向右点击
 .click_left,.click_right{
     position: absolute;
     background: url(./../img/icon-normal.png) no-repeat #E7E2D7;
@@ -117,7 +122,6 @@
             width: 1100px;
             margin: 0 auto;
             overflow: hidden;
-            // overflow: auto;
             .newProducts_ul{
                 width: 50000px;
                 .newProducts_li{
@@ -646,4 +650,3 @@
         }
     }
 }
-   

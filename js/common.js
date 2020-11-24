@@ -1,7 +1,5 @@
 
 var common = async function(){
-    $('.header').load('./common_header.html');
-    $('.footer').load('./common_footer.html');
     // 导航栏数据拿取
     await $.ajax({
             url:'./../data/data.json',
@@ -10,6 +8,8 @@ var common = async function(){
             async:true,
             success:function(data){
                var jsonData = data[0].data.cateList
+               console.log(data)
+               console.log(jsonData)
                var i = 0
                for (var  key in jsonData) {
                    i++
@@ -60,6 +60,7 @@ var common = async function(){
 
     }()
     //导航栏吸顶事件
+    // 左右固定定位栏
     await setInterval(function(){
         $('.commonHeader_top_inner .notice li').animate({
             top:-30
@@ -78,8 +79,20 @@ var common = async function(){
             $('.main_nav_box2').css('top','0')
             $('.main_nav_box2').css('height','50')
         }  
+        if(top >596){
+            $('.hotForm').css('position','fixed')
+            $('.hotForm').css('top','70px')
+            $('.index_fixr .fixRight_outer').css('position','fixed')
+            $('.index_fixr .fixRight_outer').css('top','70px')
+        }else{
+            $('.hotForm').css('position','absolute')
+            $('.hotForm').css('top','635px')
+            $('.index_fixr .fixRight_outer').css('position','absolute')
+            $('.index_fixr .fixRight_outer').css('top','635px')
+        }
     }
-    // 新平首发点击事件
+
+    // 新品首发点击事件
     await $(".em_1").click(function(){
         $(".em_2").get(0).style.color = '#333'
         this.style.color = '#b4a078'
@@ -176,7 +189,10 @@ var common = async function(){
 
     }();
 
+
 }();
+
+
 
 
 

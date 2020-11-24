@@ -8,10 +8,11 @@
        </div>
     </div>
     <div class="mian_content">
-        <!-- <div class="fixBoxLeft"></div>
-        <div class="fixBoxRight"></div> -->
+        <!-- 左右固定框 -->
+        <div class="fixBoxLeft index_fixl"></div>
+        <div class="fixBoxRight index_fixr"></div>
         <!-- 新品首发 -->
-        <div class="newSamples commonCenter">
+        <div class="newSamples commonCenter clearfix">
             <div class="commom_header">
                 <a href="#" class="commom_header_leftA"><strong >新品首发</strong></a><i class="commom_header_i">为你寻觅世间好物</i>
                 <a href="#" class="moreSample">更多新品 ></a>
@@ -694,3 +695,8 @@
         </div>
     </div>
 </div>
+
+<script>
+    $('.fixBoxLeft').load('./fixLeft.html');
+    $('.fixBoxRight').load('./fixRight.html');
+</script>
