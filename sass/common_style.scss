@@ -3,7 +3,6 @@
     margin: 0 auto;
     position: relative;
 }
-
 .noBorder{
     border: none;
 }
@@ -13,6 +12,8 @@
 .commonHeader_top{
     background: #333;
     height: 36px;
+    min-width: 1090px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
     .commonHeader_top_inner{
         background: #333;
         height: 36px;
@@ -181,6 +182,7 @@
         position: relative;
         .search{   
             height: 140px;
+                        
             .logo{
                 display: inline-block;
                 position: absolute;
@@ -609,6 +611,7 @@
       
    }
    .common_footer_bottom{
+        min-width: 1090px;
        height: 268px;
        padding-top: 37px;
        background-color: #414141;

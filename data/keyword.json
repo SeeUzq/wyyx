@@ -1,0 +1,55 @@
+{
+    "code": "200",
+    "data": [
+        {
+            "keyword": "暖冬爆款",
+            "schemeUrl": "https://act.you.163.com/act/pub/7EAbbKRpT7zn.html?keyword=%E6%9A%96%E5%86%AC%E7%88%86%E6%AC%BE",
+            "highlight": 1,
+            "extra": {
+                "taskId": "54670128",
+                "materialId": "54656679",
+                "taskType": 1,
+                "resourcesId": 4,
+                "crmUserGroupId": "0",
+                "crmUserGroupName": "无分组",
+                "materialName": "暖冬爆款",
+                "operator": null,
+                "itemId": null,
+                "materialType": "热搜词id",
+                "itemIdList": null,
+                "customAdPicUrl": null,
+                "customAdLinkUrl": null,
+                "schemeUrl": null,
+                "itemFrom": 0,
+                "materialContentFrom": 1,
+                "rcmdSort": false,
+                "alg_personalized": null
+            }
+        },
+        {
+            "keyword": "口罩",
+            "schemeUrl": "",
+            "highlight": 0,
+            "extra": {
+                "taskId": "54670113",
+                "materialId": "54652769",
+                "taskType": 1,
+                "resourcesId": 6,
+                "crmUserGroupId": "0",
+                "crmUserGroupName": "无分组",
+                "materialName": "口罩",
+                "operator": null,
+                "itemId": null,
+                "materialType": "热搜词id",
+                "itemIdList": null,
+                "customAdPicUrl": null,
+                "customAdLinkUrl": null,
+                "schemeUrl": null,
+                "itemFrom": 0,
+                "materialContentFrom": 1,
+                "rcmdSort": false,
+                "alg_personalized": null
+            }
+        }
+    ]
+}
