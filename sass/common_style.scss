@@ -262,7 +262,8 @@
                  margin: 26px 0 0 49px;
                  float: right;
                 
-                    div{
+                    .mygoodsListCar{
+                        display: block;
                         width:134px ;
                         border: 1px solid #CC9756;
                         border-radius:18px ;
@@ -819,4 +820,32 @@
             background-size: 100%;
         }
     }
+}
+
+// 面包屑结构
+.crumbs{
+    font-size: 12px;
+    color: #333;
+    line-height: 1;
+    padding: 20px 0;
+    .Link{
+        color: #333; 
+    }
+    .leftArrow{
+        margin: 0 5px;
+        color: #999;
+    }
+    .topic{
+        color: #999;
+    }
+}
+// 缩放动画
+.common_scale{
+    .do_scale{
+        transition: transform 0.4s;
+    }
+    &:hover .do_scale{
+            transform:scale(1.1) ;
+    }
+    
 }

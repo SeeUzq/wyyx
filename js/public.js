@@ -11,7 +11,7 @@
 //11找对象的最后一个元素getLastEle(obj) 
 //12清除空格 myTrim(str)
 //13.判断ele元素中是否有value的类 hasClass(ele, value) 
-// 14.删除ele中的value的class类removeClass(ele, value) 
+//14.删除ele中的value的class类removeClass(ele, value) 
 //15.给ele添加value这个class名称 addClass(ele, value) 
 //16.获得前面的兄弟节点getPreviousSibling(ele) 
 //17.根据key获取查询串中的应对value  getSearch(key)
@@ -24,6 +24,8 @@
 //24.根据css选择器获取元素集合 $2(selector)
 //25.判断是不是对象 isObject(obj)
 //26 ajax ajax(options)
+// 27 //放大镜功能函数
+// 27 //放大镜功能函数
 // ajax{
 	// 	data: ,
 	// 	type: "get/post",
@@ -659,4 +661,48 @@ function promiseAjax(options){
       }
     }
   })
+}
+
+function amplification(e){
+	//获取光标相对于大盒子的移动位置
+	var left1=e.pageX-box.offsetLeft-mark.offsetWidth/2
+	var top1=e.pageY-box.offsetTop-mark.offsetHeight/2
+	// console.log(left1,top1)
+	//获取小盒子的移动范围
+	var minX=minY=0 //minY=0;minX=minY
+	var maxX=box.offsetWidth-mark.offsetWidth
+	var maxY=box.offsetHeight-mark.offsetHeight
+	//右边大盒子的偏移量
+	var tmpX,tmpY;
+
+	//判断X轴的移动,当移动距离小于最小值时，那么就把最小值作为偏移量
+	if(left1<minX){
+		mark.style.left=minX+'px'
+		tmpX=minX
+	}else if(left1>maxX){
+		//当移动距离大于最大值时，那么就把最大值作为偏移量
+		mark.style.left=maxX+'px'
+		tmpX=maxX
+	}else{
+		mark.style.left=left1+'px'
+		tmpX=left1
+	}
+	//判断Y轴的移动
+	if(top1<minY){
+		mark.style.top=minY+'px'
+		tmpY=minY
+	}else if(top1>maxY){
+		//当移动距离大于最大值时，那么就把最大值作为偏移量
+		mark.style.top=maxY+'px'
+		tmpY=maxY
+	}else{
+		mark.style.top=top1+'px'
+		tmpY=top1
+	}
+
+	//接下来要移动右边盒子中的图片
+	var imgs=boxRight.getElementsByTagName('img')[0]
+	//使图片移动
+	imgs.style.left=-tmpX*2+'px'
+	imgs.style.top=-tmpY*2+'px'
 }

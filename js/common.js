@@ -71,26 +71,20 @@ var common = async function(){
         $('.new .lis_yx').remove()
 
     }()
-   
     window.onscroll = await function(){
         var top = document.documentElement.scrollTop || document.body.scrollTop
         $('.main_nav_box2').css('display','none')
+        var prevTop = $('.hotForm').scrollTop
         if(top >= 176){
-            $('.main_nav_box2 ').css('display','block')
-            $('.main_nav_box2').css('position','fixed')
-            $('.main_nav_box2').css('top','0')
-            $('.main_nav_box2').css('height','50')
+            $('.main_nav_box2 ').css({'display':'block','position':'fixed','top':'0','height':'50'})
         }  
         if(top >596){
-            $('.hotForm').css('position','fixed')
-            $('.hotForm').css('top','70px')
-            $('.index_fixr .fixRight_outer').css('position','fixed')
-            $('.index_fixr .fixRight_outer').css('top','70px')
+            $('.hotForm').css({'position':'fixed','top':'70px'})
+            $(' .fixRight_outer').css({'position':'fixed','top':'70px'})
         }else{
-            $('.hotForm').css('position','absolute')
-            $('.hotForm').css('top','635px')
-            $('.index_fixr .fixRight_outer').css('position','absolute')
-            $('.index_fixr .fixRight_outer').css('top','635px')
+            $('.hotForm').css({'position':'absolute','top':'635px'})
+            
+            $(' .fixRight_outer').css({'position':'absolute','top':'635px'})
         }
     }  
 

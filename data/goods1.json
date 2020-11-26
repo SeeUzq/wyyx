@@ -1,0 +1,1136 @@
+{
+    "item": {
+        "layawayList": [],
+        "promId": 0,
+        "scenePicUrl": "https://yanxuan-item.nosdn.127.net/991420026df50106cf4dd40173ffeb71.jpg",
+        "depositDetailVO": {
+            "finalPayEndTime": 1607788799000,
+            "depositEndTime": 1607522399000,
+            "primaryActivityPrice": 82.80,
+            "leftTime": 1163305136,
+            "depositPrice": 9.9,
+            "deductionPrice": 36.1,
+            "finalPayPrice": 72.90,
+            "finalPayStartTime": 1607522400000,
+            "prePromotionDesc": "12.12预售"
+        },
+        "itemTagList": [
+            {
+                "itemId": 0,
+                "tagId": 128323270,
+                "freshmanExclusive": false,
+                "name": "12.12预售",
+                "appFreshmanBargain": false,
+                "subType": 0,
+                "forbidJump": false,
+                "type": 2
+            }
+        ],
+        "postageTip": "",
+        "rank": 0,
+        "id": 1142050,
+        "sellVolume": 573,
+        "adBanners": [],
+        "itemLimit": "特价商品不可与优惠券叠加使用",
+        "primaryPicUrl": "https://yanxuan-item.nosdn.127.net/42059fd154e5e7258cab1f2f5c5b2b3a.png",
+        "categoryRank": 0,
+        "soldOut": false,
+        "attrList": [
+            {
+                "attrValue": "麦片囤货装",
+                "attrName": "品名"
+            },
+            {
+                "attrValue": "酸奶草莓奇亚籽谷物燕麦片 600克*2袋；\n每日坚果亚麻籽谷物燕麦片 600克*2袋；\n酸奶草莓奇亚籽谷物燕麦片 600克*1袋+每日坚果亚麻籽谷物燕麦片 600克*1袋",
+                "attrName": "规格"
+            },
+            {
+                "attrValue": "酸奶草莓奇亚籽谷物燕麦片：配料表奇亚籽谷物麦片（燕麦片、粳米、食用玉米淀粉、白砂糖、植物油、奇亚籽（在成品中含量≥5%）、聚葡萄糖（可溶性膳食纤维）、椰蓉、全脂乳粉、玉米糁、全麦粉、火龙果、大麦青汁粉、黑麦、抗性糊精、菊粉(在成品中含量≥0.29%)、食用盐）、南瓜籽仁、玉米片（玉米糁、白砂糖、全脂乳粉、植物油）、冻干草莓片（在成品中含量≥3%）、冻干草莓酸奶块（在成品中含量≥2%）（发酵乳、乳清粉、草莓、脱脂乳粉、草莓浆、白砂糖、食用玉米淀粉、单，双甘油脂肪酸酯）、冻干蓝莓酸奶块（在成品中含量≥2%）（发酵乳、乳清粉、蓝莓、脱脂乳粉、蓝莓浆、白砂糖、食用玉米淀粉、单，双甘油脂肪酸酯）、冻干芒果酸奶块（在成品中含量≥2%）（发酵乳、乳清粉、芒果、芒果浆、脱脂乳粉、白砂糖、食用玉米淀粉、单，双甘油脂肪酸酯）、冻干紫薯丁、冻干黄桃丁、冻干苹果丁",
+                "attrName": "配料表1"
+            },
+            {
+                "attrValue": "每日坚果亚麻籽谷物燕麦片：亚麻籽谷物燕麦（燕麦片、粳米、食用玉米淀粉、葡萄糖浆、亚麻籽（在成品中含量≥5%）、白砂糖、棕榈油、椰蓉、全脂乳粉、玉米糁、全麦粉、黑麦、菊粉(在成品中含量≥0.29%)、食用盐）、扁桃仁、南瓜籽仁、香蕉片、葡萄干、椰子片、冻干玉米粒、腰果仁",
+                "attrName": "配料表2"
+            },
+            {
+                "attrValue": "福建省漳州市",
+                "attrName": "原产地"
+            },
+            {
+                "attrValue": "300天",
+                "attrName": "保质期"
+            },
+            {
+                "attrValue": "请置于阴凉干燥处，本品较易吸潮，拆开后尽快食用，以免受潮",
+                "attrName": "贮存条件"
+            },
+            {
+                "attrValue": "1、网易严选出售的食品，除明确质量问题外均不接受退换货\n2、燕麦属于高纤食物，胀气及对麸质过敏的人不宜食用；\n3、拆封后请尽快食用，以免影受潮响产品风味；\n4、水果为混合添加，可能会有不均；",
+                "attrName": "温馨提醒"
+            }
+        ],
+        "onSaleTime": 1497629673967,
+        "picMode": 1,
+        "underShelf": false,
+        "status": 2,
+        "couponConflict": false,
+        "forbiddenBuy": false,
+        "promotionDesc": "12.12预售",
+        "limitedFlag": 300000,
+        "pieceNum": 0,
+        "skuSpecList": [
+            {
+                "name": "规格",
+                "id": 1128052,
+                "type": 1,
+                "firstHideFlag": false,
+                "skuSpecValueList": [
+                    {
+                        "picUrl": "https://yanxuan-item.nosdn.127.net/e751187ac3937811f7c985f672e532a4.png",
+                        "skuSpecId": 1128052,
+                        "id": 4065110,
+                        "value": "酸奶草莓奇亚籽谷物燕麦片600克*2袋"
+                    },
+                    {
+                        "picUrl": "https://yanxuan-item.nosdn.127.net/3d446fbb5b70799d3e54bf6c7fb796c8.png",
+                        "skuSpecId": 1128052,
+                        "id": 4065111,
+                        "value": "每日坚果谷物燕麦片600克*2袋"
+                    },
+                    {
+                        "picUrl": "https://yanxuan-item.nosdn.127.net/8995796566ad1c89558f65d6c3dc49ad.png",
+                        "skuSpecId": 1128052,
+                        "id": 4065112,
+                        "value": "酸奶草莓奇亚籽谷物燕麦片600克*1袋+每日坚果谷物燕麦片600克*1袋"
+                    }
+                ]
+            }
+        ],
+        "hasMoreCouponsShow": false,
+        "itemSizeTableDetailFlag": false,
+        "forbidExclusiveCal": false,
+        "updateTime": 1606233600159,
+        "pieceUnitDesc": "件",
+        "specialPromTag": "",
+        "counterPrice": 109.00,
+        "retailPrice": 82.80,
+        "hdrkDetailVOList": [],
+        "primarySkuPreSellPrice": 0,
+        "itemDetail": {
+            "picUrl5": "https://yanxuan-item.nosdn.127.net/56cb2a29f3bd7d31c0b3589b40fa0e8b.png",
+            "videoInfo": {
+                "webmVideoUrl": "",
+                "mp4VideoUrl": "",
+                "webmVideoSize": "0.0M",
+                "mp4VideoSize": "0.0M"
+            },
+            "detailHtml": "<p><img src=\"https://yanxuan-item.nosdn.127.net/8170496422e1709c2e0de918be49769b.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/8170496422e1709c2e0de918be49769b.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/94af05264b91a73d2f796e8be0db53c5.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/94af05264b91a73d2f796e8be0db53c5.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/7e62967fe42ea8bf49b5153c4d9b06e0.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/7e62967fe42ea8bf49b5153c4d9b06e0.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/721987bb4e0266d098c9e85f542daa83.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/721987bb4e0266d098c9e85f542daa83.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/b6d0b6c6739318f44abc601b83af07df.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/b6d0b6c6739318f44abc601b83af07df.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/22c86ea8f612274273d813a58f1fb9d8.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/22c86ea8f612274273d813a58f1fb9d8.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/0621dc4e11406a9df71b4d11c3b9a0e4.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/0621dc4e11406a9df71b4d11c3b9a0e4.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/a77a6ccbbea935377964344ad5be8ba5.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/a77a6ccbbea935377964344ad5be8ba5.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/f3ad7c61678ecef9f727a1c3178e6a12.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/f3ad7c61678ecef9f727a1c3178e6a12.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/dd8173119428183aefb849e4df19e7fd.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/dd8173119428183aefb849e4df19e7fd.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/9ba84ac39c9914f9aa2cc5b75c3f1410.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/9ba84ac39c9914f9aa2cc5b75c3f1410.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/f9cfa2ef64d8de880279f013c228f6f9.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/f9cfa2ef64d8de880279f013c228f6f9.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/4bc29b024361a9933242c7c7a30925aa.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/4bc29b024361a9933242c7c7a30925aa.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/071ac506c657ae1deb2d486128647368.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/071ac506c657ae1deb2d486128647368.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/33809bdac242cb2af7e299536ee5f03d.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/33809bdac242cb2af7e299536ee5f03d.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/d2c8a51f4b63d9cbbe07463aa0e2f8df.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/d2c8a51f4b63d9cbbe07463aa0e2f8df.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/8c9a171b0037cf533884a7024155d7b2.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/8c9a171b0037cf533884a7024155d7b2.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/958ba2ec20257612cfeb893b0c2b6268.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/958ba2ec20257612cfeb893b0c2b6268.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/b8aa9a9033ad22c64b8660f2fee2a2a8.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/b8aa9a9033ad22c64b8660f2fee2a2a8.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/447867394e71fd226416ff0770b3ae18.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/447867394e71fd226416ff0770b3ae18.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/e9816a46e4f73491b54b2486c5fcf36b.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/e9816a46e4f73491b54b2486c5fcf36b.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/1c61f4c095bb10d0b0f4bed63bce639d.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/1c61f4c095bb10d0b0f4bed63bce639d.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/9d190a0e11cac638833420f75613583b.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/9d190a0e11cac638833420f75613583b.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/388883d7b0d3539ec88705abfe8dd5a0.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/388883d7b0d3539ec88705abfe8dd5a0.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/e355796f861d64fe023d96fa9b607a0e.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/e355796f861d64fe023d96fa9b607a0e.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/4396b2cab872554f1b1ed1df04c680cd.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/4396b2cab872554f1b1ed1df04c680cd.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/f53f03e362dafd69e6c845bbd652fb6d.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/f53f03e362dafd69e6c845bbd652fb6d.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/f91b9df26b1bacb5868c966c3c44c2a4.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/f91b9df26b1bacb5868c966c3c44c2a4.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/4c313e94766aad35e45d77e58e93a587.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/4c313e94766aad35e45d77e58e93a587.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/e36127d02c6ab7e93f516032370e14bb.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/e36127d02c6ab7e93f516032370e14bb.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/8d7ff989989a07eb5aaafb200165cedb.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/8d7ff989989a07eb5aaafb200165cedb.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/a6942e664aa915a176781b4609939ec3.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/a6942e664aa915a176781b4609939ec3.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/f1351b490b40ea2242b775586b7eaaef.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/f1351b490b40ea2242b775586b7eaaef.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/12f24d129f1f63fbc939340abc1e371d.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/12f24d129f1f63fbc939340abc1e371d.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/0cf5c3393e029e600efa79000fd4baf7.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/0cf5c3393e029e600efa79000fd4baf7.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/984c85aedfb51c15dd02cac97751a207.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/984c85aedfb51c15dd02cac97751a207.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/e4582fd276ebcbcedbb70dd5bc7849ab.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/e4582fd276ebcbcedbb70dd5bc7849ab.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/ca2f3b769f3f4c51e9918c402a3bb894.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/ca2f3b769f3f4c51e9918c402a3bb894.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/95a4e515e21471d36b4fab846513002b.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/95a4e515e21471d36b4fab846513002b.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/eecc3af31e61981e98fdf1eaafbbf7a0.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/eecc3af31e61981e98fdf1eaafbbf7a0.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/b5b51102ee1fb678df710585384f2976.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/b5b51102ee1fb678df710585384f2976.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/4eba5195d708b07b891b5374f29a04ad.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/4eba5195d708b07b891b5374f29a04ad.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/9b85ae7add909354c555ecc19e9b3fbe.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/9b85ae7add909354c555ecc19e9b3fbe.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/db553bf1167c02f79795ea215b1bfecf.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/db553bf1167c02f79795ea215b1bfecf.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/88cd5198d2d0b10c57f1855491606229.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/88cd5198d2d0b10c57f1855491606229.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/2ffae908dedea92f3d4e3e062bcc7158.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/2ffae908dedea92f3d4e3e062bcc7158.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/76a8043d331433418393694fb8d71ab4.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/76a8043d331433418393694fb8d71ab4.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/c6103d1f3ed1ce339aec697a51fb17b0.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/c6103d1f3ed1ce339aec697a51fb17b0.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/53aa84d4413de9af03a4c870914902c4.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/53aa84d4413de9af03a4c870914902c4.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/daad668754f78f2327d7936a9851d94d.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/daad668754f78f2327d7936a9851d94d.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/eaf0ca807817e2e82c1fea4936982f01.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/eaf0ca807817e2e82c1fea4936982f01.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/dc27482bc1375728f89410300fd992eb.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/dc27482bc1375728f89410300fd992eb.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/17eeb8d2bfb2f0f9218a5c4256421e16.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/17eeb8d2bfb2f0f9218a5c4256421e16.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/1b4b8f2b0d00cfa92ea33e6519062db5.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/1b4b8f2b0d00cfa92ea33e6519062db5.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/14b2f7edc2f832f2d675c3792b700f95.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/14b2f7edc2f832f2d675c3792b700f95.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/e1ccaef01efee277128339a1c9c1f2ab.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/e1ccaef01efee277128339a1c9c1f2ab.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/b01b3c70f0f3bb4e1ee297d46c67494e.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/b01b3c70f0f3bb4e1ee297d46c67494e.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/56c1fd9af3564e83af3131cdf202c690.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/56c1fd9af3564e83af3131cdf202c690.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/65e62d3fa70f5b6a86ab00f174df9a5d.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/65e62d3fa70f5b6a86ab00f174df9a5d.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/6c50ed392cd9a1cac5404ad7d894db25.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/6c50ed392cd9a1cac5404ad7d894db25.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/3a3cef61bc29eb32bc7cda819d354276.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/3a3cef61bc29eb32bc7cda819d354276.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/6a0cedd1163b34f92566656301b7e4b5.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/6a0cedd1163b34f92566656301b7e4b5.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/82dc4b394a9ca37e2fa6c4d53c7efba2.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/82dc4b394a9ca37e2fa6c4d53c7efba2.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/e8f290578047f3ba843df88ff3d76543.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/e8f290578047f3ba843df88ff3d76543.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/3a8ae7cd73fd2091728fd5ecd92c2c5c.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/3a8ae7cd73fd2091728fd5ecd92c2c5c.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/a3d3d4cb609018c8aa092f554a84eb21.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/a3d3d4cb609018c8aa092f554a84eb21.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/8768453edd46850ce4df015c4babbe09.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/8768453edd46850ce4df015c4babbe09.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/45e44dec421502a418db77c511e44658.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/45e44dec421502a418db77c511e44658.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/1962a48a7bf453598ff37c1f46c824e2.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/1962a48a7bf453598ff37c1f46c824e2.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/914975104ddb1007738a7ab86e43d3fe.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/914975104ddb1007738a7ab86e43d3fe.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/6cc49ace2a6e555f338fd18cd6a6cb74.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/6cc49ace2a6e555f338fd18cd6a6cb74.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/dffbf68dc13c8f0476851347b0b304d9.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/dffbf68dc13c8f0476851347b0b304d9.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/fe306b146d80ece130e5bf68615ed949.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/fe306b146d80ece130e5bf68615ed949.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/d476242bd29d33d7d2f00ef4cc48e928.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/d476242bd29d33d7d2f00ef4cc48e928.jpg\" style=\"\"/></p><p><img src=\"https://yanxuan-item.nosdn.127.net/17b0377f690c73920c18139402520d82.jpg\" _src=\"https://yanxuan-item.nosdn.127.net/17b0377f690c73920c18139402520d82.jpg\" style=\"\"/></p>",
+            "picUrl3": "https://yanxuan-item.nosdn.127.net/e7511513b494708865ad301116a1926b.jpg",
+            "seoDesc": "",
+            "picUrl4": "https://yanxuan-item.nosdn.127.net/ee99db9188dc5301e9db171c1bf6931a.jpg",
+            "picUrl1": "https://yanxuan-item.nosdn.127.net/701064b63f32513fd26a635d787603f4.jpg",
+            "picUrl2": "https://yanxuan-item.nosdn.127.net/4a16dc9ffb1458d6e7df98f592cffb6f.jpg"
+        },
+        "preLimitFlag": 0,
+        "itemPromValid": true,
+        "promTag": "",
+        "source": 0,
+        "remarkTitle": "",
+        "shoppingReward": {
+            "rewardValue": "8积分",
+            "rewardDesc": "最高返",
+            "name": "购物返"
+        },
+        "primarySkuPreSellStatus": 0,
+        "extraServiceFlag": 0,
+        "flashPageLink": "",
+        "detailPromBanner": {
+            "ingBannerTitleUrl": "https://yanxuan.nosdn.127.net/d71e2460d062eaa21d5bdf97eba9da89.png",
+            "ingBannerContentUrl": "https://yanxuan.nosdn.127.net/c168892ef76f29971032dc1c12613720.png",
+            "bannerType": 7,
+            "countdown": 1163305137,
+            "schemeUrl": "https://act.you.163.com/act/pub/Ue22I3PzS2PY.html",
+            "content": "定金¥9.9",
+            "styleType": 1,
+            "cntDownText": "距定金支付结束仅剩",
+            "bannerContentUrl": "https://yanxuan.nosdn.127.net/aee487bbec398d6c790d2e2a320da5e6.png",
+            "ingCountdown": 0,
+            "promoTitle": "12.12",
+            "sellVolumePercent": 0,
+            "promoSubTitle": "预售狂欢",
+            "maxDisplayTime": 0,
+            "bannerTitleUrl": "https://yanxuan.nosdn.127.net/b56bff5185edfd7db890d84f65878229.png",
+            "subContent": "可抵¥36.1",
+            "status": 2
+        },
+        "autoOnsaleTimeLeft": 0,
+        "innerData": {},
+        "saleCenterSkuId": 0,
+        "pointsStatus": 0,
+        "colorNum": 0,
+        "showTime": 0,
+        "skuMap": {
+            "4065111": {
+                "calcPrice": 109.00,
+                "promId": 0,
+                "hdrkDetailVOList": [],
+                "depositDetailVO": {
+                    "finalPayEndTime": 1607788799000,
+                    "depositEndTime": 1607522399000,
+                    "primaryActivityPrice": 82.80,
+                    "leftTime": 1163305136,
+                    "depositPrice": 9.9,
+                    "deductionPrice": 36.1,
+                    "finalPayPrice": 72.90,
+                    "finalPayStartTime": 1607522400000,
+                    "prePromotionDesc": "12.12预售"
+                },
+                "promValid": true,
+                "preLimitFlag": 0,
+                "pic": "https://yanxuan-item.nosdn.127.net/3d446fbb5b70799d3e54bf6c7fb796c8.png",
+                "shoppingReward": {
+                    "rewardValue": "8积分",
+                    "rewardDesc": "最高返",
+                    "name": "购物返"
+                },
+                "giftCardFlag": false,
+                "itemTagList": [
+                    {
+                        "itemId": 0,
+                        "tagId": 128323270,
+                        "freshmanExclusive": false,
+                        "name": "12.12预售",
+                        "appFreshmanBargain": false,
+                        "subType": 0,
+                        "forbidJump": false,
+                        "type": 2
+                    }
+                ],
+                "extraServiceFlag": 0,
+                "detailPromBanner": {
+                    "ingBannerTitleUrl": "https://yanxuan.nosdn.127.net/d71e2460d062eaa21d5bdf97eba9da89.png",
+                    "ingBannerContentUrl": "https://yanxuan.nosdn.127.net/c168892ef76f29971032dc1c12613720.png",
+                    "bannerType": 7,
+                    "countdown": 1163305137,
+                    "schemeUrl": "https://act.you.163.com/act/pub/Ue22I3PzS2PY.html",
+                    "content": "定金¥9.9",
+                    "styleType": 1,
+                    "cntDownText": "距定金支付结束仅剩",
+                    "bannerContentUrl": "https://yanxuan.nosdn.127.net/aee487bbec398d6c790d2e2a320da5e6.png",
+                    "ingCountdown": 0,
+                    "promoTitle": "12.12",
+                    "sellVolumePercent": 0,
+                    "promoSubTitle": "预售狂欢",
+                    "maxDisplayTime": 0,
+                    "bannerTitleUrl": "https://yanxuan.nosdn.127.net/b56bff5185edfd7db890d84f65878229.png",
+                    "subContent": "可抵¥36.1",
+                    "status": 2
+                },
+                "exchangeStatus": 0,
+                "id": 300267980,
+                "exchangeStatusText": "",
+                "flashSaleSoldOut": false,
+                "selected": false,
+                "innerData": {
+                    "canReturnReward": false,
+                    "points": 8
+                },
+                "isSatisfy": false,
+                "sellVolume": 196,
+                "limitPrice": 82.80,
+                "preSellVolume": 0,
+                "specList": [
+                    {
+                        "specName": "规格",
+                        "specValue": "每日坚果谷物燕麦片600克*2袋"
+                    }
+                ],
+                "preSellStatus": 0,
+                "preSellPrice": 109.00,
+                "preemptionStatus": 1,
+                "itemSkuSpecValueList": [
+                    {
+                        "skuSpec": {
+                            "name": "规格",
+                            "id": 1128052,
+                            "type": 1,
+                            "firstHideFlag": false
+                        },
+                        "skuSpecId": 1128052,
+                        "id": 0,
+                        "skuSpecValueId": 4065111,
+                        "skuId": 300267980,
+                        "skuSpecValue": {
+                            "picUrl": "https://yanxuan-item.nosdn.127.net/3d446fbb5b70799d3e54bf6c7fb796c8.png",
+                            "skuSpecId": 1128052,
+                            "id": 4065111,
+                            "value": "每日坚果谷物燕麦片600克*2袋"
+                        }
+                    }
+                ],
+                "primarySku": false,
+                "pointsPrice": 0,
+                "virtualFlag": false,
+                "promotionDesc": "12.12预售",
+                "limitedFlag": 300000,
+                "accessoryFlag": false,
+                "noActivitySellVolume": 0,
+                "valid": true,
+                "buttonType": 0,
+                "confineType": 0,
+                "skuPoint": "10",
+                "skuFreight": {
+                    "policyList": [
+                        {
+                            "id": 0,
+                            "title": "满99元免邮",
+                            "content": "本商品由严选自营仓发货，单笔订单金额（不含邮费）大陆地区满99元免邮费，不满99元收取10元邮费；港澳台地区满500元免邮费，不满500元收取30元邮费；海外地区以下单页提示运费为准。"
+                        }
+                    ],
+                    "title": "邮费",
+                    "type": 3,
+                    "freightInfo": "满99元免邮"
+                },
+                "hasMoreCouponsShow": false,
+                "skuTitle": "【定金购】燕麦片囤货装 2袋",
+                "limitPurchaseCount": 0,
+                "limitPurchaseFlag": false,
+                "limitPointCount": 0,
+                "purchaseAttribute": 0,
+                "skuLimit": "特价商品不可与优惠券叠加使用",
+                "counterPrice": 109.00,
+                "retailPrice": 82.80,
+                "operationAttribute": 135168
+            },
+            "4065112": {
+                "calcPrice": 109.00,
+                "promId": 0,
+                "hdrkDetailVOList": [],
+                "depositDetailVO": {
+                    "finalPayEndTime": 1607788799000,
+                    "depositEndTime": 1607522399000,
+                    "primaryActivityPrice": 82.80,
+                    "leftTime": 1163305136,
+                    "depositPrice": 9.9,
+                    "deductionPrice": 36.1,
+                    "finalPayPrice": 72.90,
+                    "finalPayStartTime": 1607522400000,
+                    "prePromotionDesc": "12.12预售"
+                },
+                "promValid": true,
+                "preLimitFlag": 0,
+                "pic": "https://yanxuan-item.nosdn.127.net/8995796566ad1c89558f65d6c3dc49ad.png",
+                "shoppingReward": {
+                    "rewardValue": "8积分",
+                    "rewardDesc": "最高返",
+                    "name": "购物返"
+                },
+                "giftCardFlag": false,
+                "itemTagList": [
+                    {
+                        "itemId": 0,
+                        "tagId": 128323270,
+                        "freshmanExclusive": false,
+                        "name": "12.12预售",
+                        "appFreshmanBargain": false,
+                        "subType": 0,
+                        "forbidJump": false,
+                        "type": 2
+                    }
+                ],
+                "extraServiceFlag": 0,
+                "detailPromBanner": {
+                    "ingBannerTitleUrl": "https://yanxuan.nosdn.127.net/d71e2460d062eaa21d5bdf97eba9da89.png",
+                    "ingBannerContentUrl": "https://yanxuan.nosdn.127.net/c168892ef76f29971032dc1c12613720.png",
+                    "bannerType": 7,
+                    "countdown": 1163305137,
+                    "schemeUrl": "https://act.you.163.com/act/pub/Ue22I3PzS2PY.html",
+                    "content": "定金¥9.9",
+                    "styleType": 1,
+                    "cntDownText": "距定金支付结束仅剩",
+                    "bannerContentUrl": "https://yanxuan.nosdn.127.net/aee487bbec398d6c790d2e2a320da5e6.png",
+                    "ingCountdown": 0,
+                    "promoTitle": "12.12",
+                    "sellVolumePercent": 0,
+                    "promoSubTitle": "预售狂欢",
+                    "maxDisplayTime": 0,
+                    "bannerTitleUrl": "https://yanxuan.nosdn.127.net/b56bff5185edfd7db890d84f65878229.png",
+                    "subContent": "可抵¥36.1",
+                    "status": 2
+                },
+                "exchangeStatus": 0,
+                "id": 300267981,
+                "exchangeStatusText": "",
+                "flashSaleSoldOut": false,
+                "selected": true,
+                "innerData": {
+                    "canReturnReward": false,
+                    "points": 8
+                },
+                "isSatisfy": false,
+                "sellVolume": 179,
+                "limitPrice": 82.80,
+                "preSellVolume": 0,
+                "specList": [
+                    {
+                        "specName": "规格",
+                        "specValue": "酸奶草莓奇亚籽谷物燕麦片600克*1袋+每日坚果谷物燕麦片600克*1袋"
+                    }
+                ],
+                "preSellStatus": 0,
+                "preSellPrice": 109.00,
+                "preemptionStatus": 1,
+                "itemSkuSpecValueList": [
+                    {
+                        "skuSpec": {
+                            "name": "规格",
+                            "id": 1128052,
+                            "type": 1,
+                            "firstHideFlag": false
+                        },
+                        "skuSpecId": 1128052,
+                        "id": 0,
+                        "skuSpecValueId": 4065112,
+                        "skuId": 300267981,
+                        "skuSpecValue": {
+                            "picUrl": "https://yanxuan-item.nosdn.127.net/8995796566ad1c89558f65d6c3dc49ad.png",
+                            "skuSpecId": 1128052,
+                            "id": 4065112,
+                            "value": "酸奶草莓奇亚籽谷物燕麦片600克*1袋+每日坚果谷物燕麦片600克*1袋"
+                        }
+                    }
+                ],
+                "primarySku": true,
+                "pointsPrice": 0,
+                "virtualFlag": false,
+                "promotionDesc": "12.12预售",
+                "limitedFlag": 300000,
+                "accessoryFlag": false,
+                "noActivitySellVolume": 0,
+                "valid": true,
+                "buttonType": 0,
+                "confineType": 0,
+                "skuPoint": "10",
+                "skuFreight": {
+                    "policyList": [
+                        {
+                            "id": 0,
+                            "title": "满99元免邮",
+                            "content": "本商品由严选自营仓发货，单笔订单金额（不含邮费）大陆地区满99元免邮费，不满99元收取10元邮费；港澳台地区满500元免邮费，不满500元收取30元邮费；海外地区以下单页提示运费为准。"
+                        }
+                    ],
+                    "title": "邮费",
+                    "type": 3,
+                    "freightInfo": "满99元免邮"
+                },
+                "hasMoreCouponsShow": false,
+                "skuTitle": "【定金购】燕麦片囤货装 2袋",
+                "limitPurchaseCount": 0,
+                "limitPurchaseFlag": false,
+                "limitPointCount": 0,
+                "purchaseAttribute": 0,
+                "skuLimit": "特价商品不可与优惠券叠加使用",
+                "counterPrice": 109.00,
+                "retailPrice": 82.80,
+                "operationAttribute": 135168
+            },
+            "4065110": {
+                "calcPrice": 109.00,
+                "promId": 0,
+                "hdrkDetailVOList": [],
+                "depositDetailVO": {
+                    "finalPayEndTime": 1607788799000,
+                    "depositEndTime": 1607522399000,
+                    "primaryActivityPrice": 82.80,
+                    "leftTime": 1163305136,
+                    "depositPrice": 9.9,
+                    "deductionPrice": 36.1,
+                    "finalPayPrice": 72.90,
+                    "finalPayStartTime": 1607522400000,
+                    "prePromotionDesc": "12.12预售"
+                },
+                "promValid": true,
+                "preLimitFlag": 0,
+                "pic": "https://yanxuan-item.nosdn.127.net/e751187ac3937811f7c985f672e532a4.png",
+                "shoppingReward": {
+                    "rewardValue": "8积分",
+                    "rewardDesc": "最高返",
+                    "name": "购物返"
+                },
+                "giftCardFlag": false,
+                "itemTagList": [
+                    {
+                        "itemId": 0,
+                        "tagId": 128323270,
+                        "freshmanExclusive": false,
+                        "name": "12.12预售",
+                        "appFreshmanBargain": false,
+                        "subType": 0,
+                        "forbidJump": false,
+                        "type": 2
+                    }
+                ],
+                "extraServiceFlag": 0,
+                "detailPromBanner": {
+                    "ingBannerTitleUrl": "https://yanxuan.nosdn.127.net/d71e2460d062eaa21d5bdf97eba9da89.png",
+                    "ingBannerContentUrl": "https://yanxuan.nosdn.127.net/c168892ef76f29971032dc1c12613720.png",
+                    "bannerType": 7,
+                    "countdown": 1163305137,
+                    "schemeUrl": "https://act.you.163.com/act/pub/Ue22I3PzS2PY.html",
+                    "content": "定金¥9.9",
+                    "styleType": 1,
+                    "cntDownText": "距定金支付结束仅剩",
+                    "bannerContentUrl": "https://yanxuan.nosdn.127.net/aee487bbec398d6c790d2e2a320da5e6.png",
+                    "ingCountdown": 0,
+                    "promoTitle": "12.12",
+                    "sellVolumePercent": 0,
+                    "promoSubTitle": "预售狂欢",
+                    "maxDisplayTime": 0,
+                    "bannerTitleUrl": "https://yanxuan.nosdn.127.net/b56bff5185edfd7db890d84f65878229.png",
+                    "subContent": "可抵¥36.1",
+                    "status": 2
+                },
+                "exchangeStatus": 0,
+                "id": 300267979,
+                "exchangeStatusText": "",
+                "flashSaleSoldOut": false,
+                "selected": false,
+                "innerData": {
+                    "canReturnReward": false,
+                    "points": 8
+                },
+                "isSatisfy": false,
+                "sellVolume": 198,
+                "limitPrice": 82.80,
+                "preSellVolume": 0,
+                "specList": [
+                    {
+                        "specName": "规格",
+                        "specValue": "酸奶草莓奇亚籽谷物燕麦片600克*2袋"
+                    }
+                ],
+                "preSellStatus": 0,
+                "preSellPrice": 109.00,
+                "preemptionStatus": 1,
+                "itemSkuSpecValueList": [
+                    {
+                        "skuSpec": {
+                            "name": "规格",
+                            "id": 1128052,
+                            "type": 1,
+                            "firstHideFlag": false
+                        },
+                        "skuSpecId": 1128052,
+                        "id": 0,
+                        "skuSpecValueId": 4065110,
+                        "skuId": 300267979,
+                        "skuSpecValue": {
+                            "picUrl": "https://yanxuan-item.nosdn.127.net/e751187ac3937811f7c985f672e532a4.png",
+                            "skuSpecId": 1128052,
+                            "id": 4065110,
+                            "value": "酸奶草莓奇亚籽谷物燕麦片600克*2袋"
+                        }
+                    }
+                ],
+                "primarySku": false,
+                "pointsPrice": 0,
+                "virtualFlag": false,
+                "promotionDesc": "12.12预售",
+                "limitedFlag": 300000,
+                "accessoryFlag": false,
+                "noActivitySellVolume": 0,
+                "valid": true,
+                "buttonType": 0,
+                "confineType": 0,
+                "skuPoint": "10",
+                "skuFreight": {
+                    "policyList": [
+                        {
+                            "id": 0,
+                            "title": "满99元免邮",
+                            "content": "本商品由严选自营仓发货，单笔订单金额（不含邮费）大陆地区满99元免邮费，不满99元收取10元邮费；港澳台地区满500元免邮费，不满500元收取30元邮费；海外地区以下单页提示运费为准。"
+                        }
+                    ],
+                    "title": "邮费",
+                    "type": 3,
+                    "freightInfo": "满99元免邮"
+                },
+                "hasMoreCouponsShow": false,
+                "skuTitle": "【定金购】燕麦片囤货装 2袋",
+                "limitPurchaseCount": 0,
+                "limitPurchaseFlag": false,
+                "limitPointCount": 0,
+                "purchaseAttribute": 0,
+                "skuLimit": "特价商品不可与优惠券叠加使用",
+                "counterPrice": 109.00,
+                "retailPrice": 82.80,
+                "operationAttribute": 135168
+            }
+        },
+        "autoOnsaleTime": 0,
+        "preemptionStatus": 1,
+        "isPreemption": 0,
+        "itemPoint": "10",
+        "name": "【定金购】燕麦片囤货装 2袋",
+        "appExclusiveFlag": false,
+        "itemType": 1,
+        "listPicUrl": "https://yanxuan-item.nosdn.127.net/360f34d24e93e2ea4c3c5c005d5664ac.png",
+        "pointsPrice": 0,
+        "skuList": [
+            {
+                "calcPrice": 109.00,
+                "promId": 0,
+                "hdrkDetailVOList": [],
+                "depositDetailVO": {
+                    "finalPayEndTime": 1607788799000,
+                    "depositEndTime": 1607522399000,
+                    "primaryActivityPrice": 82.80,
+                    "leftTime": 1163305136,
+                    "depositPrice": 9.9,
+                    "deductionPrice": 36.1,
+                    "finalPayPrice": 72.90,
+                    "finalPayStartTime": 1607522400000,
+                    "prePromotionDesc": "12.12预售"
+                },
+                "promValid": true,
+                "preLimitFlag": 0,
+                "pic": "https://yanxuan-item.nosdn.127.net/8995796566ad1c89558f65d6c3dc49ad.png",
+                "shoppingReward": {
+                    "rewardValue": "8积分",
+                    "rewardDesc": "最高返",
+                    "name": "购物返"
+                },
+                "giftCardFlag": false,
+                "itemTagList": [
+                    {
+                        "itemId": 0,
+                        "tagId": 128323270,
+                        "freshmanExclusive": false,
+                        "name": "12.12预售",
+                        "appFreshmanBargain": false,
+                        "subType": 0,
+                        "forbidJump": false,
+                        "type": 2
+                    }
+                ],
+                "extraServiceFlag": 0,
+                "detailPromBanner": {
+                    "ingBannerTitleUrl": "https://yanxuan.nosdn.127.net/d71e2460d062eaa21d5bdf97eba9da89.png",
+                    "ingBannerContentUrl": "https://yanxuan.nosdn.127.net/c168892ef76f29971032dc1c12613720.png",
+                    "bannerType": 7,
+                    "countdown": 1163305137,
+                    "schemeUrl": "https://act.you.163.com/act/pub/Ue22I3PzS2PY.html",
+                    "content": "定金¥9.9",
+                    "styleType": 1,
+                    "cntDownText": "距定金支付结束仅剩",
+                    "bannerContentUrl": "https://yanxuan.nosdn.127.net/aee487bbec398d6c790d2e2a320da5e6.png",
+                    "ingCountdown": 0,
+                    "promoTitle": "12.12",
+                    "sellVolumePercent": 0,
+                    "promoSubTitle": "预售狂欢",
+                    "maxDisplayTime": 0,
+                    "bannerTitleUrl": "https://yanxuan.nosdn.127.net/b56bff5185edfd7db890d84f65878229.png",
+                    "subContent": "可抵¥36.1",
+                    "status": 2
+                },
+                "exchangeStatus": 0,
+                "id": 300267981,
+                "exchangeStatusText": "",
+                "flashSaleSoldOut": false,
+                "selected": true,
+                "innerData": {
+                    "canReturnReward": false,
+                    "points": 8
+                },
+                "isSatisfy": false,
+                "sellVolume": 179,
+                "limitPrice": 82.80,
+                "preSellVolume": 0,
+                "specList": [
+                    {
+                        "specName": "规格",
+                        "specValue": "酸奶草莓奇亚籽谷物燕麦片600克*1袋+每日坚果谷物燕麦片600克*1袋"
+                    }
+                ],
+                "preSellStatus": 0,
+                "preSellPrice": 109.00,
+                "preemptionStatus": 1,
+                "itemSkuSpecValueList": [
+                    {
+                        "skuSpec": {
+                            "name": "规格",
+                            "id": 1128052,
+                            "type": 1,
+                            "firstHideFlag": false
+                        },
+                        "skuSpecId": 1128052,
+                        "id": 0,
+                        "skuSpecValueId": 4065112,
+                        "skuId": 300267981,
+                        "skuSpecValue": {
+                            "picUrl": "https://yanxuan-item.nosdn.127.net/8995796566ad1c89558f65d6c3dc49ad.png",
+                            "skuSpecId": 1128052,
+                            "id": 4065112,
+                            "value": "酸奶草莓奇亚籽谷物燕麦片600克*1袋+每日坚果谷物燕麦片600克*1袋"
+                        }
+                    }
+                ],
+                "primarySku": true,
+                "pointsPrice": 0,
+                "virtualFlag": false,
+                "promotionDesc": "12.12预售",
+                "limitedFlag": 300000,
+                "accessoryFlag": false,
+                "noActivitySellVolume": 0,
+                "valid": true,
+                "buttonType": 0,
+                "confineType": 0,
+                "skuPoint": "10",
+                "skuFreight": {
+                    "policyList": [
+                        {
+                            "id": 0,
+                            "title": "满99元免邮",
+                            "content": "本商品由严选自营仓发货，单笔订单金额（不含邮费）大陆地区满99元免邮费，不满99元收取10元邮费；港澳台地区满500元免邮费，不满500元收取30元邮费；海外地区以下单页提示运费为准。"
+                        }
+                    ],
+                    "title": "邮费",
+                    "type": 3,
+                    "freightInfo": "满99元免邮"
+                },
+                "hasMoreCouponsShow": false,
+                "skuTitle": "【定金购】燕麦片囤货装 2袋",
+                "limitPurchaseCount": 0,
+                "limitPurchaseFlag": false,
+                "limitPointCount": 0,
+                "purchaseAttribute": 0,
+                "skuLimit": "特价商品不可与优惠券叠加使用",
+                "counterPrice": 109.00,
+                "retailPrice": 82.80,
+                "operationAttribute": 135168
+            },
+            {
+                "calcPrice": 109.00,
+                "promId": 0,
+                "hdrkDetailVOList": [],
+                "depositDetailVO": {
+                    "finalPayEndTime": 1607788799000,
+                    "depositEndTime": 1607522399000,
+                    "primaryActivityPrice": 82.80,
+                    "leftTime": 1163305136,
+                    "depositPrice": 9.9,
+                    "deductionPrice": 36.1,
+                    "finalPayPrice": 72.90,
+                    "finalPayStartTime": 1607522400000,
+                    "prePromotionDesc": "12.12预售"
+                },
+                "promValid": true,
+                "preLimitFlag": 0,
+                "pic": "https://yanxuan-item.nosdn.127.net/3d446fbb5b70799d3e54bf6c7fb796c8.png",
+                "shoppingReward": {
+                    "rewardValue": "8积分",
+                    "rewardDesc": "最高返",
+                    "name": "购物返"
+                },
+                "giftCardFlag": false,
+                "itemTagList": [
+                    {
+                        "itemId": 0,
+                        "tagId": 128323270,
+                        "freshmanExclusive": false,
+                        "name": "12.12预售",
+                        "appFreshmanBargain": false,
+                        "subType": 0,
+                        "forbidJump": false,
+                        "type": 2
+                    }
+                ],
+                "extraServiceFlag": 0,
+                "detailPromBanner": {
+                    "ingBannerTitleUrl": "https://yanxuan.nosdn.127.net/d71e2460d062eaa21d5bdf97eba9da89.png",
+                    "ingBannerContentUrl": "https://yanxuan.nosdn.127.net/c168892ef76f29971032dc1c12613720.png",
+                    "bannerType": 7,
+                    "countdown": 1163305137,
+                    "schemeUrl": "https://act.you.163.com/act/pub/Ue22I3PzS2PY.html",
+                    "content": "定金¥9.9",
+                    "styleType": 1,
+                    "cntDownText": "距定金支付结束仅剩",
+                    "bannerContentUrl": "https://yanxuan.nosdn.127.net/aee487bbec398d6c790d2e2a320da5e6.png",
+                    "ingCountdown": 0,
+                    "promoTitle": "12.12",
+                    "sellVolumePercent": 0,
+                    "promoSubTitle": "预售狂欢",
+                    "maxDisplayTime": 0,
+                    "bannerTitleUrl": "https://yanxuan.nosdn.127.net/b56bff5185edfd7db890d84f65878229.png",
+                    "subContent": "可抵¥36.1",
+                    "status": 2
+                },
+                "exchangeStatus": 0,
+                "id": 300267980,
+                "exchangeStatusText": "",
+                "flashSaleSoldOut": false,
+                "selected": false,
+                "innerData": {
+                    "canReturnReward": false,
+                    "points": 8
+                },
+                "isSatisfy": false,
+                "sellVolume": 196,
+                "limitPrice": 82.80,
+                "preSellVolume": 0,
+                "specList": [
+                    {
+                        "specName": "规格",
+                        "specValue": "每日坚果谷物燕麦片600克*2袋"
+                    }
+                ],
+                "preSellStatus": 0,
+                "preSellPrice": 109.00,
+                "preemptionStatus": 1,
+                "itemSkuSpecValueList": [
+                    {
+                        "skuSpec": {
+                            "name": "规格",
+                            "id": 1128052,
+                            "type": 1,
+                            "firstHideFlag": false
+                        },
+                        "skuSpecId": 1128052,
+                        "id": 0,
+                        "skuSpecValueId": 4065111,
+                        "skuId": 300267980,
+                        "skuSpecValue": {
+                            "picUrl": "https://yanxuan-item.nosdn.127.net/3d446fbb5b70799d3e54bf6c7fb796c8.png",
+                            "skuSpecId": 1128052,
+                            "id": 4065111,
+                            "value": "每日坚果谷物燕麦片600克*2袋"
+                        }
+                    }
+                ],
+                "primarySku": false,
+                "pointsPrice": 0,
+                "virtualFlag": false,
+                "promotionDesc": "12.12预售",
+                "limitedFlag": 300000,
+                "accessoryFlag": false,
+                "noActivitySellVolume": 0,
+                "valid": true,
+                "buttonType": 0,
+                "confineType": 0,
+                "skuPoint": "10",
+                "skuFreight": {
+                    "policyList": [
+                        {
+                            "id": 0,
+                            "title": "满99元免邮",
+                            "content": "本商品由严选自营仓发货，单笔订单金额（不含邮费）大陆地区满99元免邮费，不满99元收取10元邮费；港澳台地区满500元免邮费，不满500元收取30元邮费；海外地区以下单页提示运费为准。"
+                        }
+                    ],
+                    "title": "邮费",
+                    "type": 3,
+                    "freightInfo": "满99元免邮"
+                },
+                "hasMoreCouponsShow": false,
+                "skuTitle": "【定金购】燕麦片囤货装 2袋",
+                "limitPurchaseCount": 0,
+                "limitPurchaseFlag": false,
+                "limitPointCount": 0,
+                "purchaseAttribute": 0,
+                "skuLimit": "特价商品不可与优惠券叠加使用",
+                "counterPrice": 109.00,
+                "retailPrice": 82.80,
+                "operationAttribute": 135168
+            },
+            {
+                "calcPrice": 109.00,
+                "promId": 0,
+                "hdrkDetailVOList": [],
+                "depositDetailVO": {
+                    "finalPayEndTime": 1607788799000,
+                    "depositEndTime": 1607522399000,
+                    "primaryActivityPrice": 82.80,
+                    "leftTime": 1163305136,
+                    "depositPrice": 9.9,
+                    "deductionPrice": 36.1,
+                    "finalPayPrice": 72.90,
+                    "finalPayStartTime": 1607522400000,
+                    "prePromotionDesc": "12.12预售"
+                },
+                "promValid": true,
+                "preLimitFlag": 0,
+                "pic": "https://yanxuan-item.nosdn.127.net/e751187ac3937811f7c985f672e532a4.png",
+                "shoppingReward": {
+                    "rewardValue": "8积分",
+                    "rewardDesc": "最高返",
+                    "name": "购物返"
+                },
+                "giftCardFlag": false,
+                "itemTagList": [
+                    {
+                        "itemId": 0,
+                        "tagId": 128323270,
+                        "freshmanExclusive": false,
+                        "name": "12.12预售",
+                        "appFreshmanBargain": false,
+                        "subType": 0,
+                        "forbidJump": false,
+                        "type": 2
+                    }
+                ],
+                "extraServiceFlag": 0,
+                "detailPromBanner": {
+                    "ingBannerTitleUrl": "https://yanxuan.nosdn.127.net/d71e2460d062eaa21d5bdf97eba9da89.png",
+                    "ingBannerContentUrl": "https://yanxuan.nosdn.127.net/c168892ef76f29971032dc1c12613720.png",
+                    "bannerType": 7,
+                    "countdown": 1163305137,
+                    "schemeUrl": "https://act.you.163.com/act/pub/Ue22I3PzS2PY.html",
+                    "content": "定金¥9.9",
+                    "styleType": 1,
+                    "cntDownText": "距定金支付结束仅剩",
+                    "bannerContentUrl": "https://yanxuan.nosdn.127.net/aee487bbec398d6c790d2e2a320da5e6.png",
+                    "ingCountdown": 0,
+                    "promoTitle": "12.12",
+                    "sellVolumePercent": 0,
+                    "promoSubTitle": "预售狂欢",
+                    "maxDisplayTime": 0,
+                    "bannerTitleUrl": "https://yanxuan.nosdn.127.net/b56bff5185edfd7db890d84f65878229.png",
+                    "subContent": "可抵¥36.1",
+                    "status": 2
+                },
+                "exchangeStatus": 0,
+                "id": 300267979,
+                "exchangeStatusText": "",
+                "flashSaleSoldOut": false,
+                "selected": false,
+                "innerData": {
+                    "canReturnReward": false,
+                    "points": 8
+                },
+                "isSatisfy": false,
+                "sellVolume": 198,
+                "limitPrice": 82.80,
+                "preSellVolume": 0,
+                "specList": [
+                    {
+                        "specName": "规格",
+                        "specValue": "酸奶草莓奇亚籽谷物燕麦片600克*2袋"
+                    }
+                ],
+                "preSellStatus": 0,
+                "preSellPrice": 109.00,
+                "preemptionStatus": 1,
+                "itemSkuSpecValueList": [
+                    {
+                        "skuSpec": {
+                            "name": "规格",
+                            "id": 1128052,
+                            "type": 1,
+                            "firstHideFlag": false
+                        },
+                        "skuSpecId": 1128052,
+                        "id": 0,
+                        "skuSpecValueId": 4065110,
+                        "skuId": 300267979,
+                        "skuSpecValue": {
+                            "picUrl": "https://yanxuan-item.nosdn.127.net/e751187ac3937811f7c985f672e532a4.png",
+                            "skuSpecId": 1128052,
+                            "id": 4065110,
+                            "value": "酸奶草莓奇亚籽谷物燕麦片600克*2袋"
+                        }
+                    }
+                ],
+                "primarySku": false,
+                "pointsPrice": 0,
+                "virtualFlag": false,
+                "promotionDesc": "12.12预售",
+                "limitedFlag": 300000,
+                "accessoryFlag": false,
+                "noActivitySellVolume": 0,
+                "valid": true,
+                "buttonType": 0,
+                "confineType": 0,
+                "skuPoint": "10",
+                "skuFreight": {
+                    "policyList": [
+                        {
+                            "id": 0,
+                            "title": "满99元免邮",
+                            "content": "本商品由严选自营仓发货，单笔订单金额（不含邮费）大陆地区满99元免邮费，不满99元收取10元邮费；港澳台地区满500元免邮费，不满500元收取30元邮费；海外地区以下单页提示运费为准。"
+                        }
+                    ],
+                    "title": "邮费",
+                    "type": 3,
+                    "freightInfo": "满99元免邮"
+                },
+                "hasMoreCouponsShow": false,
+                "skuTitle": "【定金购】燕麦片囤货装 2袋",
+                "limitPurchaseCount": 0,
+                "limitPurchaseFlag": false,
+                "limitPointCount": 0,
+                "purchaseAttribute": 0,
+                "skuLimit": "特价商品不可与优惠券叠加使用",
+                "counterPrice": 109.00,
+                "retailPrice": 82.80,
+                "operationAttribute": 135168
+            }
+        ],
+        "collectionedByUser": false,
+        "simpleDesc": "燕麦遇见坚果，越吃越香停不了",
+        "seoTitle": "",
+        "newItemFlag": false,
+        "remarkTargetUrl": "",
+        "buttonType": 0,
+        "shoppingRewardRule": {
+            "ruleList": [
+                {
+                    "title": "关于购物返回馈金：",
+                    "content": "1. 回馈金是严选用以回馈用户的代币\n2. 回馈金可与现金1:1抵扣使用\n3. 回馈金使用无门槛，可叠加\n4. 购物即可返还回馈金，用户等级越高，返还比例越高\n5. 本月获取的回馈金，统一在次月25日23:59:59失效，请尽快使用\n6. 可在个人中心--回馈金中查看回馈金资产\n7. 部分特殊商品和订单不支持返还回馈金，具体以回馈金的活动说明为准\n8. 如有疑问，请联系严选在线客服"
+                },
+                {
+                    "title": "关于购物返积分：",
+                    "content": "1. 用户在严选主站购物，确认收货后按商品售价的10%返购物积分\n2. 购物返积分数值精确到个位（小数点后全部舍弃，不进行四舍五入）\n3. 拼团/众筹/砍价/虚拟商品和礼品卡支付商品订单不支持返积分\n4. 购买礼品卡订单不返积分，礼品卡消费时，按照实际消费额度进行积分返赠\n5. 如商品订单完成后退货，则在退货流程发起后24小时内对该笔订单发放的积分数进行扣除\n6. 可在【帮助中心】-积分规则查看详细说明\n7. 如有疑问，请联系严选在线客服"
+                }
+            ],
+            "title": "什么是购物返"
+        },
+        "categoryList": [
+            {
+                "showIndex": 3,
+                "superCategoryId": 0,
+                "level": "L1",
+                "bannerUrl": "https://yanxuan.nosdn.127.net/dd6cc8a7e996936768db5634f12447ed.jpg",
+                "name": "美食酒水",
+                "subCateGroupList": [],
+                "iconUrl": "https://yanxuan.nosdn.127.net/c9280327a3fd2374c000f6bf52dff6eb.png",
+                "id": 1005002,
+                "frontDesc": "好吃，高颜值美食",
+                "subCateList": [],
+                "frontName": ""
+            },
+            {
+                "showIndex": 9,
+                "superCategoryId": 1005002,
+                "level": "L2",
+                "bannerUrl": "https://yanxuan.nosdn.127.net/0b8ec3ebf7f344601e27dd98a162ad23.png",
+                "name": "冲调饮品",
+                "subCateGroupList": [],
+                "id": 1005013,
+                "frontDesc": "以用料天然之美，尽享闲雅之意",
+                "subCateList": [],
+                "frontName": "以用料天然之美，尽享闲雅之意"
+            }
+        ],
+        "skuFreight": {
+            "policyList": [
+                {
+                    "id": 0,
+                    "title": "满99元免邮",
+                    "content": "本商品由严选自营仓发货，单笔订单金额（不含邮费）大陆地区满99元免邮费，不满99元收取10元邮费；港澳台地区满500元免邮费，不满500元收取30元邮费；海外地区以下单页提示运费为准。"
+                }
+            ],
+            "title": "邮费",
+            "type": 3,
+            "freightInfo": "满99元免邮"
+        },
+        "primarySkuId": 300267981,
+        "issueList": [
+            {
+                "answer": "网易严选会根据商品所在地、顾客所在地和商品的尺寸重量优选物流配送商，确保优质用户体验。目前暂不支持自选快递，具体物流信息可在下单成功后“我的订单-追踪物流”中查看。",
+                "question": "网易严选的订单如何配送？"
+            },
+            {
+                "answer": "1.支持无忧退换货的商品，自收到商品之日起在无忧退换货期限内，顾客可申请无忧退换货；食品、定作类商品、贴身衣物、积分兑换等特殊商品，无质量问题不支持退换货；\n2.如果是退货，退款将原路返还，不同的银行处理时间不同，预计1-5个工作日到账；\n3.退货流程：确认收 货-申请退货-客服审核通过-用户寄回商品-仓库签收验货-退款审核-退款完成；\n4.换货流程：确认收货-申请换货-客服审核通过-用户寄回商品-仓库签收验货-客服确认-换货完成；\n5.质量问题和平台问题退换货运费由网易严选承担，个人原因退货运费由用户自行承担。上门取件费用由网易严选统一与快递服务商结算，顾客只需将退换货商品交给上门取件快递员寄回。如顾客选择自行寄回商品，请先垫付运费，到货验证商品后，严选将以现金券形式为用户报销运费，不接受单方面到付件。",
+                "question": "如何申请退换货？"
+            },
+            {
+                "answer": "1. 为了维护消费者的权益，网易严选出售的食品一经售出非质量原因，不予退货，敬请谅解；\n2. 生鲜食品及部分酒类产品不支持任何形式的拒签，因客户原因如联系方式有误、电话停机、不接电话、无理由拒收等造成快件无法正常签收的情况，不在赔付范围内；\n3. 请在签收后，第一时间检查商品。如果商品有腐坏、破损等情况请把商品和快递面单一起拍照并在24小时内联系客服申请理赔，不能提供符合要求的照片或未能在24小时内联系客服，将不予退货退款处理；\n4. 因喜好不同，要求退货退款者将不予受理。",
+                "question": "食品类商品什么情况下支持退换货？"
+            },
+            {
+                "answer": "1.请在下单时选择“我要开发票”并填写相关信息（APP仅限2.4.0及以上版本）。开具增值税专用发票需在下单时填写增票资质信息。温馨提示：请确保增票资质信息与贵司税务登记证信息一致，避免因开票信息错误给贵司带来损失。 \n2.可选开票内容：\n\t依照国税总局开票法规，严选订单开具纸质发票、电子发票，开票内容为明细；礼品卡开票内容为预付卡；增值税专用发票开票内容为明细。",
+                "question": "如何开具发票？"
+            },
+            {
+                "answer": "1.划线价、指导价：商品展示的划线价或指导价可能是商品制造厂商的零售市场指导价、品牌专柜价、商品吊牌价或该商品在严选上曾经展示过的销售价；由于地区、时间的差异性和市场行情波动，品牌专柜标价、商品吊牌价等可能会与您购物时展示的不一致，该价格仅供您参考。\n2.活动价：如无特殊说明，促销价是商家在划线价、指导价基础上给予的优惠价格。如有疑问，您可以在购买前与客服联系。\n3.严选价：严选非会员用户购买的商品详情页显示的售价。\n4.会员价：在严选价的基础上给予不同类型会员用户的优惠价格，仅该类会员用户可以以会员价购买该商品。\n5.价格异常：因可能存在系统缓存、页面更新延迟等不确定性情况，导致价格显示异常，商品具体售价请以订单结算页价格为准。如您发现异常情况出现，请立即联系我们补正，以便您能顺利购物。",
+                "question": "关于严选相关价格说明？"
+            }
+        ],
+        "displaySkuId": 300267981,
+        "marketTagList": [],
+        "tagList": [],
+        "productPlace": "",
+        "reportPicList": [
+            "https://yanxuan.nosdn.127.net/80a48acfb273aec4644731f5c9040ea4.jpg",
+            "https://yanxuan.nosdn.127.net/ad043ea361ab9557e89ad2135ab5685f.jpg",
+            "https://yanxuan.nosdn.127.net/d0c41ef9f7a95a53a14c9b43bdd0235b.jpg",
+            "https://yanxuan.nosdn.127.net/91ceb1c4303f6536b4bc5317f88235c7.jpg",
+            "https://yanxuan.nosdn.127.net/132844183591d265e477c6ab6a21f22b.jpg",
+            "https://yanxuan.nosdn.127.net/9b9d5cc88cc5d4fc2a16ebe2ec7211aa.jpg",
+            "https://yanxuan.nosdn.127.net/d2f1ec6cd816ac5da4c8b8201d8be608.jpg",
+            "https://yanxuan.nosdn.127.net/119f050fc45f7fb6b9e9fa3ef6d7194c.jpg",
+            "https://yanxuan.nosdn.127.net/a982cd02ca68e3e8e3e614db45d96f58.jpg",
+            "https://yanxuan.nosdn.127.net/310a400530d9badfba1a27bf761fd246.jpg",
+            "https://yanxuan.nosdn.127.net/7719ec1d7c0125599f97a30817d1261d.jpg",
+            "https://yanxuan.nosdn.127.net/2cf230a8d395247f6088fb870f678361.jpg",
+            "https://yanxuan.nosdn.127.net/5e9fb41ca43ac4a440bc5a9409512b8e.jpg",
+            "https://yanxuan.nosdn.127.net/9dd5eb5241172213db201c7614501ef9.jpg",
+            "https://yanxuan.nosdn.127.net/fb4a1d244bf04fe69dab22ace369c694.jpg"
+        ],
+        "itemSizeTableFlag": false
+    },
+    "commentCount": 32027,
+    "commentGoodRates": "99.3%",
+    "policyList": [
+        {
+            "id": 0,
+            "title": "网易自营品牌",
+            "content": "网易原创生活类电商品牌，所有商品均为网易自营，品质保证"
+        },
+        {
+            "id": 0,
+            "title": "不支持无忧退换",
+            "content": "食品、定作类商品、贴身衣物、积分兑换等特殊商品，无质量问题不支持退换货。具体规则请参见帮助中心-退换货政策"
+        },
+        {
+            "id": 0,
+            "title": "不可用券",
+            "content": "猪肉、唱片、礼品卡等特殊商品，不支持使用优惠券"
+        },
+        {
+            "id": 0,
+            "title": "国内部分地区不可配送",
+            "content": "省份：香港、西藏、澳门、台湾省\n城市：玉树藏族自治州"
+        }
+    ],
+    "rcmdItems": [],
+    "suitList": [],
+    "itemType": 1,
+    "categoryList": [
+        {
+            "showIndex": 3,
+            "superCategoryId": 0,
+            "level": "L1",
+            "bannerUrl": "https://yanxuan.nosdn.127.net/dd6cc8a7e996936768db5634f12447ed.jpg",
+            "name": "美食酒水",
+            "subCateGroupList": [],
+            "iconUrl": "https://yanxuan.nosdn.127.net/c9280327a3fd2374c000f6bf52dff6eb.png",
+            "id": 1005002,
+            "frontDesc": "好吃，高颜值美食",
+            "subCateList": [],
+            "frontName": ""
+        },
+        {
+            "showIndex": 9,
+            "superCategoryId": 1005002,
+            "level": "L2",
+            "bannerUrl": "https://yanxuan.nosdn.127.net/0b8ec3ebf7f344601e27dd98a162ad23.png",
+            "name": "冲调饮品",
+            "subCateGroupList": [],
+            "id": 1005013,
+            "frontDesc": "以用料天然之美，尽享闲雅之意",
+            "subCateList": [],
+            "frontName": "以用料天然之美，尽享闲雅之意"
+        }
+    ],
+    "giftcardRealNameAuthAmount": 1000
+}

@@ -8,16 +8,7 @@
 .noBorder{
     border: none;
 }
-// 缩放动画
-.common_scale{
-    .do_scale{
-        transition: transform 1.4s;
-    }
-    &:hover .do_scale{
-            transform:scale(1.1) ;
-    }
-    
-}
+
 // 相同h样式
 .commom_header{
     width: 1090px;

@@ -1,0 +1,261 @@
+.goodsDetails{
+    padding: 0 0 80px;
+    .detaliHD{
+        .detaliHD_slide{
+            width: 430px;
+            float: left;
+            position: relative;
+            .picWrap{
+                height: 430px;
+                .view{
+                    width: 430px;
+                    position: relative;
+                    height: 430px;
+                    border: 1px solid #e8e8e8;
+                    margin-right: 16px;
+                    float: left;
+                    cursor: move;
+                    overflow: hidden;
+                    .thumbImg{
+                        top: 0;
+                        left: 0;
+                        position: absolute;
+                        display: block;
+                        width: 428px;
+                        height: 428px;
+                        background-color: #f4f4f4;
+                        z-index: 2;
+                    }
+                    .topPic{
+                        z-index: 5;
+                    }
+                    .zoom_div{
+                        cursor: pointer;
+                        bottom: -1px;
+                        right: -1px;
+                        position: absolute;
+                    }
+                    .fang{
+                        display: block;
+                        background: url('./../img/icon-normal.png') no-repeat;
+                        background-position: 0 -6684px;
+                        height: 30px;
+                        width: 30px;
+                    }
+                }  
+                .mask{
+                position: absolute;
+                display: none;
+                z-index: 6;
+                top: 0;
+                left: 0;
+                width: 230px;
+                height: 230px;
+                background: url('./../img/mask1.webp') repeat;
+                pointer-events: none;
+                cursor: move;
+                }
+                .big{
+                    position: absolute;
+                    display: none;
+                    top: 0;
+                    left:430px ;
+                    height: 430px;
+                    width: 430px;
+                    z-index: 5;
+                    overflow: hidden;
+                    .bigImg{
+                        position: absolute;
+                        height: 800px;
+                        width: 800px;
+                    }
+                }        
+            }
+            .picList{
+                overflow: hidden;
+                margin-top: 14px;
+                position: relative;
+                margin-top: 14px;
+                position: relative;
+                .list_li{
+                    width: 78px;
+                    height: 78px;
+                    overflow: hidden;
+                    margin-left: 10px;
+                    vertical-align: top;
+                    float: left;
+                    border: 1px solid #e8e8e8;
+                    img{
+                        background-color: #f4f4f4
+                    }
+                }
+                .first_li{
+                    margin-left: 0px;
+                }
+
+            }
+        }
+        .detaliHD_info{
+            margin: 0 0 0 40px;
+            padding: 5px 0 0 0;
+            float: left; 
+            width: 620px;
+            position: relative;
+            .info{
+                height: 350px;
+                img{
+                    height: 350px;
+                    width: 100%;
+                }
+            }
+            .addCar{
+                margin: 20px 0 0 10px;
+                .specification{
+                    line-height: 50px;
+                    float: left;
+                    font-size: 12px;
+                    color: #666;
+                    width: 54px;
+                }
+                .ul{
+                    position: relative;
+                    width: 550px;
+                    float: left;
+                  
+                   li{
+                       float: left;
+                       border: 1px solid #ddd;
+                       cursor: pointer;
+                       margin: 0 10px 15px 0;
+                       img{
+                           width: 50px;
+                           height: 50px;
+                           background:#f4f4f4 ;
+                       }
+                   } 
+                }
+            }
+            .addNum{
+                .numDeal{
+                    line-height: 30px;
+                    float: left;
+                    font-size: 12px;
+                    color: #666;
+                    width: 54px;
+                }
+                .numDiv{
+                    margin: 0 0 3px 0;
+                    float: left;
+                    position: relative;
+                    border: 1px solid #ddd;
+                    overflow: hidden;
+                    .deleteDeal{
+                        border-right: 1px solid #ddd;  
+                        cursor: not-allowed;
+                        position: relative;
+                        float: left;
+                        width: 36px;
+                        height: 30px;
+                        line-height: 28px;
+                        background: #fff;
+                    
+                    }
+                    .line{
+                        display: block;
+                        position: absolute;
+                        top: 15px;
+                        left: 12px;
+                        width: 10px;
+                        height: 2px;
+                        overflow: hidden;
+                        background: #999;
+                    } 
+                    .jia{
+                        display: block;
+                        position: absolute;
+                        top: 11px;
+                        left: 16px;
+                        width: 2px;
+                        height: 10px;
+                        overflow: hidden;
+                        background: #999; 
+                    }
+                    .goodsNum{
+                        box-sizing: border-box;
+                        border-radius: 0;
+                        border: 0;
+                        width: 60px;
+                        margin: 0;
+                        font-size: 12px;
+                        text-align: center;
+                        color: #333;
+                        position: relative;
+                        float: left;
+                        height: 30px;
+                        line-height: 28px;
+                        background: #fff;
+                    }
+                    .addDeal{
+                        border-left: 1px solid #ddd;
+                        position: relative;
+                        float: left;
+                        width: 36px;
+                        height: 30px;
+                        line-height: 28px;
+                        background: #fff;
+                        cursor: pointer;
+                    }
+                }
+            }
+            .payAndStar{
+                margin-left: 12px;
+                margin-top: 30px;
+                font-size: 0;
+                .prePay{
+                    float: left;
+                    width: 168px;
+                    height: 50px;
+                    line-height: 50px;
+                    font-size: 18px;
+                    color: #fff;
+                    border: 1px solid #b4a078;
+                    background-color: #b4a078;
+                    border-radius: 2px;
+                    padding: 0;
+                    text-align: center;
+                    margin-right: 10px;
+                }
+                .star{
+                    float: left;
+                    height: auto;
+                    position: relative;
+                    height: 49px;
+                    width: 50px;
+                    border: 1px solid #ccc;
+                    overflow: hidden;
+                    text-align: center;
+                    cursor: pointer;
+                  .starI{
+                      position: relative;
+                      display: block;
+                      height: 17px;
+                     width: 17px;
+                     margin: 6px auto 0;
+                      background: url('./../img/icon-normal.png') no-repeat;
+                      background-position:0 -696px ;
+
+                  }  
+                  .starWord{
+                    height: 23px;
+                    font-size: 13px;
+                    line-height: 23px;
+                    color: #999;
+                    display: block;
+                  }
+                 
+                }
+            }
+ 
+        }
+    }
+}
