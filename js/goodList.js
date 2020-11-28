@@ -10,10 +10,9 @@ $('.header').load('./common_header.html',function(){
             var goodsList = data.categoryItemList
              //遍历数据，生成样式结构 
             $.each(goodsList,function(index,item){
-                // if(index >= 2){
-                //     return
-                // }
-
+                if(index >= 2){
+                    return
+                }
                 var divStr = ''
                 // item.category.name是a标签
                 $('.allSort').append("<a href='#' class='sortA sameA'>"+item.category.name+"</a>")

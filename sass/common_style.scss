@@ -129,12 +129,15 @@
     }
     .companyBuy_li:hover .liDiv{
         display: block;
+        z-index: 10;
     }
     .server_li:hover .liDiv{
         display: block;
+        z-index: 10;
     }
     .app_li:hover .liDiv{
         display: block;
+        z-index: 10;
     }
     .app_li{
         position: relative;

@@ -40,8 +40,6 @@ var common = async function(){
                             }
                         }
                         $(li).append(listDiv)
-        
-        
                      }
                    }
                    var lastLis = $("<li class ='morePage  lis_yx'> <a href='#'  class='liA liA_last'>为你严选</a></li><li class ='morePage clearfix lis_zc'> <a href='#'  class='liA liA_last'>众筹</a></li>")
@@ -83,7 +81,6 @@ var common = async function(){
             $(' .fixRight_outer').css({'position':'fixed','top':'70px'})
         }else{
             $('.hotForm').css({'position':'absolute','top':'635px'})
-            
             $(' .fixRight_outer').css({'position':'absolute','top':'635px'})
         }
     }  
