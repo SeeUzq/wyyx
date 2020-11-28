@@ -1,6 +1,7 @@
 $('.footer').load('./common_footer.html');
 $('.fixBoxRight').load('./fixRight.html');
 $('.header').load('./common_header.html',function(){
+  myCarNum()
     // 商品数量增减
     $('.detaliHD_info').on('click','.addDeal',function(){
         var val = $('.goodsNum').val()

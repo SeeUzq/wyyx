@@ -1,10 +1,10 @@
-
 $('.header').load('./common_header.html');
 $('.footer').load('./common_footer.html');
 $('.indexMain').load('./indexMain.html',function(){
-    var main = async function(){
+    myCarNum();
+    var main =  function(){
         // 新品首发点击事件
-        await $(".em_1").click(function(){
+         $(".em_1").click(function(){
            $(".em_2").get(0).style.color = '#333'
            this.style.color = '#b4a078'
            $(".em_1").css('border-bottom','2px solid #b4a078')
@@ -12,7 +12,7 @@ $('.indexMain').load('./indexMain.html',function(){
            $('.em_1_div').css('display','block')
            $('.em_2_div').css('display','none')
        });
-       await $(".em_2").click(function(){
+        $(".em_2").click(function(){
                $(".em_1").get(0).style.color = '#333'
                this.style.color = '#b4a078'
                $(".em_2").css('border-bottom','2px solid #b4a078')
@@ -21,7 +21,7 @@ $('.indexMain').load('./indexMain.html',function(){
                $('.em_1_div').css('display','none')
            });
        // 轮播图点击事件
-       await $('.newSamples .click_right').click(function(){
+        $('.newSamples .click_right').click(function(){
            var next = $('.newProductsLists')[0] 
            // console.log(next)
            var x = next.scrollLeft
@@ -36,14 +36,14 @@ $('.indexMain').load('./indexMain.html',function(){
            }
            
        });
-       await $('.newSamples .click_left').click(function(){
+        $('.newSamples .click_left').click(function(){
            var next = $('.newProductsLists')[0] 
            var x = next.scrollLeft
            x -= 1100
            next.scrollLeft = x
        });
        // 轮播图
-       await function animateImg(){
+        function animateImg(){
        var imgIndex = 0
        var imgWith = 367
        var scrollLeft = 0
@@ -96,6 +96,11 @@ $('.indexMain').load('./indexMain.html',function(){
            });
    
    
-       }();
+       };
+       animateImg()
    }();
 });
+function myCarNum(){
+    var goodsObj = JSON.parse(localStorage.getItem('goods'))
+    $('.myCarNum').text(goodsObj.length)
+};

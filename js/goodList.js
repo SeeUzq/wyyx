@@ -1,6 +1,7 @@
 $('.fixBoxLeft').load('./fixLeft.html');
 $('.fixBoxRight').load('./fixRight.html');
 $('.header').load('./common_header.html',function(){
+    myCarNum()
      $.ajax({
         dataType :'json',
         url:'./../data/foodList.json',
@@ -130,8 +131,8 @@ $('.header').load('./common_header.html',function(){
                 var parent = this.parentElement
                 var data_id = parent.getAttribute('data_id')
                 var data_massage = parent.getAttribute('data')
-                console.log(data_id)
-                console.log(data_massage)
+                // console.log(data_id)
+                // console.log(data_massage)
               
                 var good1 = [{
                     "id":data_id,
@@ -143,13 +144,13 @@ $('.header').load('./common_header.html',function(){
                     localStorage.setItem('goods',str)
                 }else{
                     var goodObj = JSON.parse(localStorage.getItem('goods'));
-                    console.log(goodObj)
+                    // console.log(goodObj)
                     var flag = true 
                     var i = 0
                    for (const key in goodObj) {
                        console.log(key)
                       var element = goodObj[key]
-                      console.log(element.id === data_id)
+                    //   console.log(element.id === data_id)
                      if(element.id === data_id){
                         flag = false //表示购物车有此商品
                         i = key
@@ -158,18 +159,18 @@ $('.header').load('./common_header.html',function(){
                    if(!flag){//表示购物车有此商品
                     goodObj[i].num ++
                     localStorage.setItem('goods',JSON.stringify(goodObj))
-                    }else{
+                    }else{//购物车没有此商品
                     var goodNew = {
                         "id":data_id,
                         "data":data_massage,
                         "num":1
                         }
                         goodObj.push(goodNew)
-                        console.log(goodObj)
+                        // console.log(goodObj)
                         localStorage.setItem('goods',JSON.stringify(goodObj))
-
                     }
                 }
+                myCarNum()
               })
 
         }

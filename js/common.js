@@ -84,9 +84,15 @@ var common = async function(){
             $(' .fixRight_outer').css({'position':'absolute','top':'635px'})
         }
     }  
-
-
+    myCarNum();  
 }();
+function myCarNum(){
+    if(localStorage.getItem('goods')){  
+    var goodsObj = JSON.parse(localStorage.getItem('goods'))
+    $('.myCarNum').text(goodsObj.length)
+}
+};
+
 
 
 
